@@ -1,0 +1,293 @@
+{
+  "categories": [
+    {
+      "slug": "books",
+      "name": "Books & Study Materials",
+      "description": "Textbooks, reference guides and notes"
+    },
+    {
+      "slug": "electronics",
+      "name": "Electronics",
+      "description": "Calculators, audio and project kits"
+    },
+    {
+      "slug": "essentials",
+      "name": "College Essentials",
+      "description": "Hostel and everyday campus gear"
+    },
+    {
+      "slug": "lab",
+      "name": "Lab Equipment",
+      "description": "Lab coats, goggles and safety kits"
+    },
+    {
+      "slug": "stationery",
+      "name": "Stationery",
+      "description": "Drawing instruments, notebooks, pens"
+    },
+    {
+      "slug": "sports",
+      "name": "Sports & Lifestyle",
+      "description": "Cricket, badminton and fitness gear"
+    }
+  ],
+  "sellers": [
+    {
+      "id": "s-aarav",
+      "name": "Aarav Mehta",
+      "course": "B.Tech CSE, 3rd Year",
+      "college": "VIT Vellore"
+    },
+    {
+      "id": "s-rohan",
+      "name": "Rohan Gupta",
+      "course": "B.Tech ECE, 4th Year",
+      "college": "NIT Trichy"
+    },
+    {
+      "id": "s-priya",
+      "name": "Priya Nair",
+      "course": "B.Sc Chemistry, 2nd Year",
+      "college": "St. Xavier’s College, Mumbai"
+    },
+    {
+      "id": "s-kabir",
+      "name": "Kabir Singh",
+      "course": "BBA, 3rd Year",
+      "college": "Delhi University"
+    },
+    {
+      "id": "s-ananya",
+      "name": "Ananya Sharma",
+      "course": "B.Arch, 2nd Year",
+      "college": "Manipal Institute of Technology"
+    },
+    {
+      "id": "s-sneha",
+      "name": "Sneha Reddy",
+      "course": "MBBS, 2nd Year",
+      "college": "Osmania Medical College"
+    }
+  ],
+  "featuredIds": [
+    "grewal-engineering-maths",
+    "casio-fx-991ex",
+    "cotton-lab-coat-m",
+    "wireless-headphones",
+    "drawing-instrument-box",
+    "hc-verma-physics-set",
+    "lab-safety-kit",
+    "badminton-racquet-set"
+  ],
+  "products": [
+    {
+      "id": "grewal-engineering-maths",
+      "title": "Higher Engineering Mathematics – B.S. Grewal (44th Ed.)",
+      "description": "Barely used copy, no highlighting or torn pages. Covers the full first and second year maths syllabus. Perfect for semester prep and GATE basics.",
+      "price": 380,
+      "originalPrice": 795,
+      "condition": "Like New",
+      "category": "books",
+      "images": [
+        "/images/products/maths-textbook.png"
+      ],
+      "campus": "VIT Vellore",
+      "listedAt": "2026-10-24T09:30:00+05:30",
+      "sellerId": "s-aarav"
+    },
+    {
+      "id": "casio-fx-991ex",
+      "title": "Casio fx-991EX ClassWiz Scientific Calculator",
+      "description": "Exam-approved scientific calculator with 552 functions. Works perfectly, comes with the original hard cover. Battery replaced last month.",
+      "price": 900,
+      "originalPrice": 1495,
+      "condition": "Good",
+      "category": "electronics",
+      "images": [
+        "/images/products/calculator.png"
+      ],
+      "campus": "NIT Trichy",
+      "listedAt": "2026-10-25T08:15:00+05:30",
+      "sellerId": "s-rohan"
+    },
+    {
+      "id": "cotton-lab-coat-m",
+      "title": "White Cotton Lab Coat – Size M",
+      "description": "Full-sleeve, knee-length lab coat. Washed and ironed, no stains. Ideal for first-year chemistry and biology practicals.",
+      "price": 250,
+      "originalPrice": 550,
+      "condition": "Good",
+      "category": "lab",
+      "images": [
+        "/images/products/lab-coat.png"
+      ],
+      "campus": "St. Xavier’s College, Mumbai",
+      "listedAt": "2026-10-23T17:40:00+05:30",
+      "sellerId": "s-priya"
+    },
+    {
+      "id": "wireless-headphones",
+      "title": "Wireless Over-Ear Headphones with Mic",
+      "description": "Around 20 hours of battery life, Bluetooth 5.0. Ear cushions show slight wear but sound quality is great. Charging cable included.",
+      "price": 1100,
+      "originalPrice": 2999,
+      "condition": "Used",
+      "category": "electronics",
+      "images": [
+        "/images/products/headphones.png"
+      ],
+      "campus": "Delhi University – North Campus",
+      "listedAt": "2026-10-22T20:05:00+05:30",
+      "sellerId": "s-kabir"
+    },
+    {
+      "id": "drawing-instrument-box",
+      "title": "Engineering Drawing Instrument Box",
+      "description": "Complete kit with large compass, divider, protractor, set squares and clutch pencils. Used for one semester of Engineering Graphics.",
+      "price": 600,
+      "originalPrice": 1250,
+      "condition": "Like New",
+      "category": "stationery",
+      "images": [
+        "/images/products/drawing-instruments.png"
+      ],
+      "campus": "Manipal Institute of Technology",
+      "listedAt": "2026-10-24T14:20:00+05:30",
+      "sellerId": "s-ananya"
+    },
+    {
+      "id": "hc-verma-physics-set",
+      "title": "Concepts of Physics – H.C. Verma (Vol. 1 & 2)",
+      "description": "Both volumes in good condition with a few pencil notes in the margins. Great for first-year physics and competitive exam revision.",
+      "price": 420,
+      "originalPrice": 960,
+      "condition": "Good",
+      "category": "books",
+      "images": [
+        "/images/products/physics-books.png"
+      ],
+      "campus": "NIT Trichy",
+      "listedAt": "2026-10-21T11:00:00+05:30",
+      "sellerId": "s-rohan"
+    },
+    {
+      "id": "arduino-starter-kit",
+      "title": "Arduino Uno Starter Kit with Sensors",
+      "description": "Uno board, breadboard, 60+ jumper wires, LEDs, resistors, ultrasonic and temperature sensors. Used for a mini project, everything tested.",
+      "price": 1250,
+      "originalPrice": 2400,
+      "condition": "Good",
+      "category": "electronics",
+      "images": [
+        "/images/products/arduino-kit.png"
+      ],
+      "campus": "VIT Vellore",
+      "listedAt": "2026-10-25T10:45:00+05:30",
+      "sellerId": "s-aarav"
+    },
+    {
+      "id": "led-study-lamp",
+      "title": "Foldable LED Study Lamp (3 Brightness Modes)",
+      "description": "USB rechargeable desk lamp, ideal for late-night hostel study sessions without disturbing your roommate. Battery lasts about 5 hours.",
+      "price": 450,
+      "originalPrice": 899,
+      "condition": "Like New",
+      "category": "essentials",
+      "images": [
+        "/images/products/desk-lamp.png"
+      ],
+      "campus": "Osmania Medical College",
+      "listedAt": "2026-10-20T19:30:00+05:30",
+      "sellerId": "s-sneha"
+    },
+    {
+      "id": "kashmir-willow-bat",
+      "title": "Kashmir Willow Cricket Bat with Ball",
+      "description": "Full-size bat, knocked-in and oiled. Grip replaced recently. Comes with a leather ball. Great for inter-hostel matches.",
+      "price": 950,
+      "originalPrice": 1800,
+      "condition": "Used",
+      "category": "sports",
+      "images": [
+        "/images/products/cricket-bat.png"
+      ],
+      "campus": "Delhi University – North Campus",
+      "listedAt": "2026-10-19T16:10:00+05:30",
+      "sellerId": "s-kabir"
+    },
+    {
+      "id": "lab-safety-kit",
+      "title": "Chemistry Lab Safety Goggles + Nitrile Gloves",
+      "description": "Anti-fog safety goggles plus a pack of 20 unused nitrile gloves. Required for organic chemistry practicals.",
+      "price": 180,
+      "originalPrice": 420,
+      "condition": "Like New",
+      "category": "lab",
+      "images": [
+        "/images/products/safety-goggles.png"
+      ],
+      "campus": "St. Xavier’s College, Mumbai",
+      "listedAt": "2026-10-24T18:55:00+05:30",
+      "sellerId": "s-priya"
+    },
+    {
+      "id": "laptop-backpack",
+      "title": "30L Laptop Backpack – Forest Green",
+      "description": "Fits a 15.6\" laptop with padded compartment and rain cover. Zips and straps all in working order. Light marks on the base.",
+      "price": 800,
+      "originalPrice": 1999,
+      "condition": "Good",
+      "category": "essentials",
+      "images": [
+        "/images/products/backpack.png"
+      ],
+      "campus": "Manipal Institute of Technology",
+      "listedAt": "2026-10-18T12:30:00+05:30",
+      "sellerId": "s-ananya"
+    },
+    {
+      "id": "badminton-racquet-set",
+      "title": "Badminton Racquet with 2 Feather Shuttles",
+      "description": "Lightweight graphite racquet, freshly restrung. Includes cover and two feather shuttlecocks. Selling as I am graduating.",
+      "price": 700,
+      "originalPrice": 1600,
+      "condition": "Good",
+      "category": "sports",
+      "images": [
+        "/images/products/badminton.png"
+      ],
+      "campus": "Osmania Medical College",
+      "listedAt": "2026-10-23T07:50:00+05:30",
+      "sellerId": "s-sneha"
+    },
+    {
+      "id": "stationery-bundle",
+      "title": "Notebook & Highlighter Bundle (3 + 6)",
+      "description": "Three unused 200-page ruled notebooks with six pastel highlighters and gel pens. Bought extra at the start of semester.",
+      "price": 220,
+      "originalPrice": 450,
+      "condition": "Like New",
+      "category": "stationery",
+      "images": [
+        "/images/products/stationery-bundle.png"
+      ],
+      "campus": "St. Xavier’s College, Mumbai",
+      "listedAt": "2026-10-25T06:20:00+05:30",
+      "sellerId": "s-priya"
+    },
+    {
+      "id": "electric-kettle",
+      "title": "Stainless Steel Electric Kettle – 1.2 L",
+      "description": "Auto shut-off kettle, perfect for Maggi, tea and coffee in the hostel. Descaled and cleaned before listing.",
+      "price": 550,
+      "condition": "Used",
+      "category": "essentials",
+      "images": [
+        "/images/products/kettle.png"
+      ],
+      "campus": "NIT Trichy",
+      "listedAt": "2026-10-17T21:15:00+05:30",
+      "sellerId": "s-rohan"
+    }
+  ]
+}
